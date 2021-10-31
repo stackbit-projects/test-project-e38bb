@@ -26,7 +26,7 @@ const TestimonialsSection = (props) => {
             </div>
             
             <div data-sb-field-path=".name">
-              {logo.name}
+              {{testimonial.}}
             </div>
           </div>
         ))}
