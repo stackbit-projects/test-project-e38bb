@@ -25,7 +25,7 @@ const TestimonialsSection = (props) => {
                 {testimonial.mainContent}
             </div>
             
-            <div data-sb-field-path=".name">
+            <div data-sb-field-path=".author">
               {testimonial.author}
             </div>
           </div>
