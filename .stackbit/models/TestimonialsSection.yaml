@@ -13,4 +13,4 @@ fields:
         - type: string
           name: mainContent
         - type: string
-          name: image
+          name: author
