@@ -12,7 +12,7 @@ const TestimonialsSection = (props) => {
       <div
         className=""
         data-sb-field-path=".logos">
-        {logos.map((logo, index) => (
+        {testimonials.map((logo, index) => (
           <div className="p-6" key={index} data-sb-field-path={`.${index}`}>
             <img
               className="mb-2"
