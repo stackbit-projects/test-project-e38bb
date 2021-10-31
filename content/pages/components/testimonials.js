@@ -21,7 +21,7 @@ const TestimonialsSection = (props) => {
               src={logo.image}
               data-sb-field-path=".image#@src"
             />
-                
+            
             
             <h2 className="text-sm text-gray-400" data-sb-field-path=".name">
               {logo.name}
