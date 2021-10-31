@@ -1,7 +1,7 @@
 name: TestimonialsSection
 label: TestimonialsSection section
 groups:
-  - sectionComponent
+  - testimonialsSectionComponent
 fields:
   - type: string
     name: title
