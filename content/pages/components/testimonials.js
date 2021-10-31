@@ -22,7 +22,7 @@ const TestimonialsSection = (props) => {
               data-sb-field-path=".image#@src"
             />
             <div> 
-                {{testimonial.}}
+                {{testimonial.mainContent}}
             </div>
             
             <h2 className="text-sm text-gray-400" data-sb-field-path=".name">
