@@ -5,7 +5,7 @@ const TestimonialsSection = (props) => {
       className=""
       data-sb-field-path={annotationPrefix}>
       <h1
-        className="text-3xl tracking-tight sm:text-4xl mb-2"
+        className=""
         data-sb-field-path=".title">
         {title}
       </h1>
