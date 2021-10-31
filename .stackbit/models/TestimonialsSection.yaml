@@ -11,6 +11,6 @@ fields:
       type: object
       fields:
         - type: string
-          name: name
+          name: mainContent
         - type: image
           name: image
