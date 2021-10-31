@@ -10,7 +10,7 @@ const TestimonialsSection = (props) => {
         {title}
       </h1>
       <div
-        className="flex justify-center items-center"
+        className=""
         data-sb-field-path=".logos">
         {logos.map((logo, index) => (
           <div className="p-6" key={index} data-sb-field-path={`.${index}`}>
