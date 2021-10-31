@@ -21,7 +21,7 @@ const TestimonialsSection = (props) => {
               src={logo.image}
               data-sb-field-path=".image#@src"
             />
-            <div data-sb-field-path=""> 
+            <div data-sb-field-path=".mainContent"> 
                 {testimonial.mainContent}
             </div>
             
