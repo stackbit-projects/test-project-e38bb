@@ -12,5 +12,5 @@ fields:
       fields:
         - type: string
           name: mainContent
-        - type: image
+        - type: string
           name: image
