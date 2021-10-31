@@ -1,7 +1,7 @@
 import dynamic from 'next/dynamic';
 import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
-import LogoSection from './file:///home/codeeditor/workspace/code/src/components/testimonials.js'
+import LogoSection from './LogoSection'
 
 registerComponents({
     // Register all Stackbit components
