@@ -14,9 +14,15 @@ const TestimonialsSection = (props) => {
         data-sb-field-path=".logos">
         {testimonials.map((testimonial, index) => (
           <div className="" key={index} data-sb-field-path={`.${index}`}>
-            /
+            <img
+              className=""
+              height="60px"
+              width="60px"
+              src={logo.image}
+              data-sb-field-path=".image#@src"
+            />
 
-
+            
             <h2 className="text-sm text-gray-400" data-sb-field-path=".name">
               {logo.name}
             </h2>
