@@ -25,7 +25,7 @@ const TestimonialsSection = (props) => {
                 {testimonial.mainContent}
             </div>
             
-            <div className="text-sm text-gray-400" data-sb-field-path=".name">
+            <div data-sb-field-path=".name">
               {logo.name}
             </div>
           </div>
